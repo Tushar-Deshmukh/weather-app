@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/weather-app-stamurai/static/css/main.68940f1b.css",
-    "main.js": "/weather-app-stamurai/static/js/main.6b1d8b01.js",
-    "static/js/913.e822db22.chunk.js": "/weather-app-stamurai/static/js/913.e822db22.chunk.js",
-    "static/js/501.a0bc935a.chunk.js": "/weather-app-stamurai/static/js/501.a0bc935a.chunk.js",
-    "static/js/542.73df1987.chunk.js": "/weather-app-stamurai/static/js/542.73df1987.chunk.js",
-    "static/css/194.0ea11d06.chunk.css": "/weather-app-stamurai/static/css/194.0ea11d06.chunk.css",
-    "index.html": "/weather-app-stamurai/index.html",
-    "main.68940f1b.css.map": "/weather-app-stamurai/static/css/main.68940f1b.css.map",
-    "main.6b1d8b01.js.map": "/weather-app-stamurai/static/js/main.6b1d8b01.js.map",
-    "913.e822db22.chunk.js.map": "/weather-app-stamurai/static/js/913.e822db22.chunk.js.map",
-    "501.a0bc935a.chunk.js.map": "/weather-app-stamurai/static/js/501.a0bc935a.chunk.js.map",
-    "542.73df1987.chunk.js.map": "/weather-app-stamurai/static/js/542.73df1987.chunk.js.map",
-    "194.0ea11d06.chunk.css.map": "/weather-app-stamurai/static/css/194.0ea11d06.chunk.css.map"
+    "main.css": "/weather-app-stamurai/weather/static/css/main.68940f1b.css",
+    "main.js": "/weather-app-stamurai/weather/static/js/main.968868aa.js",
+    "static/js/913.e822db22.chunk.js": "/weather-app-stamurai/weather/static/js/913.e822db22.chunk.js",
+    "static/js/501.a0bc935a.chunk.js": "/weather-app-stamurai/weather/static/js/501.a0bc935a.chunk.js",
+    "static/js/542.73df1987.chunk.js": "/weather-app-stamurai/weather/static/js/542.73df1987.chunk.js",
+    "static/css/194.0ea11d06.chunk.css": "/weather-app-stamurai/weather/static/css/194.0ea11d06.chunk.css",
+    "index.html": "/weather-app-stamurai/weather/index.html",
+    "main.68940f1b.css.map": "/weather-app-stamurai/weather/static/css/main.68940f1b.css.map",
+    "main.968868aa.js.map": "/weather-app-stamurai/weather/static/js/main.968868aa.js.map",
+    "913.e822db22.chunk.js.map": "/weather-app-stamurai/weather/static/js/913.e822db22.chunk.js.map",
+    "501.a0bc935a.chunk.js.map": "/weather-app-stamurai/weather/static/js/501.a0bc935a.chunk.js.map",
+    "542.73df1987.chunk.js.map": "/weather-app-stamurai/weather/static/js/542.73df1987.chunk.js.map",
+    "194.0ea11d06.chunk.css.map": "/weather-app-stamurai/weather/static/css/194.0ea11d06.chunk.css.map"
   },
   "entrypoints": [
     "static/css/main.68940f1b.css",
-    "static/js/main.6b1d8b01.js"
+    "static/js/main.968868aa.js"
   ]
 }
