@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
 
     "& .backgroundContainer": {
       height: '400px',
-      background: " url(images/refer_friend_back.png) no-repeat center center/cover",
+      background: "cadetblue",
 
       "& h2": {
         textAlign: 'center',

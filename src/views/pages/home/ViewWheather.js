@@ -12,12 +12,13 @@ import KeyboardBackspaceIcon from '@mui/icons-material/KeyboardBackspace';
 const useStyles = makeStyles((theme) => ({
     viewWheatherContainer: {
         "& .backgroundImageContainer": {
-            // height: '467px',
-            background: 'url(images/wheather_bg.svg) no-repeat center center/cover',
+            backgroundColor: 'coral',
+
 
             "& .textContainer": {
                 padding: '50px 0',
                 maxWidth: '900px',
+                margin: '0 auto',
 
                 "& h2 , h4": {
                     textAlign: 'center',
